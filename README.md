@@ -1,5 +1,5 @@
 # Project Details
-Made while taking DS class. Made with Turkish language for class.  
+Made while taking data structres class. Made with Turkish language for class.  
 
 **Project Problems:** Arrays, Matrices, Methods, Random Numbers   
 
