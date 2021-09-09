@@ -1,4 +1,4 @@
-# Projects Details
+# Project Details
 Made while taking DS class. Made with Turkish language for class.  
 
 **Project Problems:** Arrays, Matrices, Methods, Random Numbers   
