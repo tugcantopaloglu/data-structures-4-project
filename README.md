@@ -5,6 +5,7 @@ Made while taking DS class. Made with Turkish language for class.
 
 **Explanations:**    
 First mission was generating distance matrix from points in a 2D plane. A distance matrix is a table that shows the distance between pairs of objects. You can take a look this examples to understand that.  
+  
 Take column and the line as a point referance.  
 ![DM_1](https://user-images.githubusercontent.com/53763911/132686779-b7deecf1-5d4b-4d38-a37c-454a86bbc8fd.PNG)  
 
